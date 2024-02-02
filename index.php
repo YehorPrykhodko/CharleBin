@@ -17,3 +17,4 @@ define('PUBLIC_PATH', __DIR__);
 require PATH . 'vendor' . DIRECTORY_SEPARATOR . 'autoload.php';
 new PrivateBin\Controller;
 dfakgmjksdbnj
+asd
