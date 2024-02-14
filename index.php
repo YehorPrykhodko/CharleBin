@@ -16,3 +16,15 @@ define('PATH', '');
 define('PUBLIC_PATH', __DIR__);
 require PATH . 'vendor' . DIRECTORY_SEPARATOR . 'autoload.php';
 new PrivateBin\Controller();
+
+if ($condition {
+    echo "Condition is true";
+}фывааа
+
+if ($condition {
+    echo "Condition is true";
+}фывааа
+
+if ($condition {
+    echo "Condition is true";
+}фывааа
