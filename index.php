@@ -24,3 +24,7 @@ if ($condition {
 if ($condition {
     echo "Condition is true";
 }фывааа
+
+if ($condition {
+    echo "Condition is true";
+}фывааа
