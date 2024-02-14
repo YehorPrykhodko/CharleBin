@@ -19,4 +19,4 @@ new PrivateBin\Controller();
 
 if ($condition {
     echo "Condition is true";
-}
+}фывааа
